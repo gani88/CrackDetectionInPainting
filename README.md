@@ -9,3 +9,7 @@ Kata Kunci	:
 - Standar Deviasi
 - Entropi
  
+
+### Dataset
+1.	Data yang digunakan pada penelitian ini bersumber dari beberapa arsip online yaitu Web Gallery of Art (https://www.wga.hu/index1.html) dan ArtCyclopedia (http://www.artcyclopedia.com)
+2.  Lukisan yang digunakan untuk dataset merupakan lukisan dari abad 14 - abad 16.
